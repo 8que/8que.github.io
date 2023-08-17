@@ -1,0 +1,17 @@
+```css,
+body {
+  background-image: url("https://cdn.jsdelivr.net/gh/antmoe/antmoe.github.io/images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+```,
+.index-img {
+  height: 300px;
+  object-fit: cover;
+}
+@media (max-width: 768px) {
+  .index-img {
+    height: 200px;
+  }
+}
