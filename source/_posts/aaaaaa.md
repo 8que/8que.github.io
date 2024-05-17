@@ -7,10 +7,6 @@ cover: images/gh.png
 诶明明想的是像发QQ空间那样，可是没搞懂是怎么弄那个模块的，不管了将就用文章发，下次再说(
 
 ---
-2024.5.118
-喜报，我重生了
-
----
 8.30
 悲报，果儿被举报了，八日内无法使用，9月7后再说吧呜呜呜
 <div style="display: flex; justify-content: center; align-items: center;">
